@@ -1,0 +1,13 @@
+xvt.saveLines: 10000
+URxvt.scrollBar: false
+URxvt.inheritPixmap: true
+URxvt.tintColor: red
+URxvt.shading: 40
+URxvt.foreground: white
+URxvt.background: black
+URxvt.secondaryScroll: true
+URxvt.font: xft:Noto Mono:pixelsize=12
+URxvt.perl-ext-common: mark-urls
+URxvt.urlLauncher: firefox
+
+
